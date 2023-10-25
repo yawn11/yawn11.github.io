@@ -2,7 +2,7 @@ let extraScore = 1;
 
 let wuDi = true;
 
-let firstFruit = 0;
+let firstFruit = 8;
 
 let reverseLevelUp = false;
 
