@@ -21,7 +21,7 @@ let fruitSlowDown = false;
 
 let clickChangeFruit = false;
 
-let adLink = 'https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png';
+let adLink = false;
 
 document.getElementsByTagName("title")[0].innerText = '마커스 게임';
 
